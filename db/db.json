@@ -8,7 +8,7 @@
     {
       "content": "peach",
       "id": 2,
-      "number": 2
+      "number": 5
     }
   ],
   "inventory": [
@@ -94,11 +94,11 @@
     },
     {
       "content": "avocado",
-      "id": 19
+      "id": 21
     },
     {
       "content": "tomato",
-      "id": 20
+      "id": 22
     }
   ]
 }
