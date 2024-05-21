@@ -1,0 +1,104 @@
+{
+  "cart": [
+    {
+      "content": "apple",
+      "id": 1,
+      "number": 2
+    },
+    {
+      "content": "peach",
+      "id": 2,
+      "number": 2
+    }
+  ],
+  "inventory": [
+    {
+      "content": "apple",
+      "id": 1
+    },
+    {
+      "content": "peach",
+      "id": 2
+    },
+    {
+      "content": "orange",
+      "id": 3
+    },
+    {
+      "content": "grape",
+      "id": 4
+    },
+    {
+      "content": "jack fruit",
+      "id": 5
+    },
+    {
+      "content": "banana",
+      "id": 6
+    },
+    {
+      "content": "kiwi",
+      "id": 7
+    },
+    {
+      "content": "dragon fruit",
+      "id": 8
+    },
+    {
+      "content": "durian",
+      "id": 9
+    },
+    {
+      "content": "strawberry",
+      "id": 10
+    },
+    {
+      "content": "cherry",
+      "id": 11
+    },
+    {
+      "content": "table",
+      "id": 12
+    },
+    {
+      "content": "watermelon",
+      "id": 13
+    },
+    {
+      "content": "grape fruit",
+      "id": 14
+    },
+    {
+      "content": "lime",
+      "id": 15
+    },
+    {
+      "content": "lemon",
+      "id": 16
+    },
+    {
+      "content": "starfruit",
+      "id": 17
+    },
+    {
+      "content": "cantaloupe",
+      "id": 18
+    },
+    {
+      "content": "papaya",
+      "id": 19
+    },
+    {
+      "content": "mandarin",
+      "id": 20
+    },
+    {
+      "content": "avocado",
+      "id": 19
+    },
+    {
+      "content": "tomato",
+      "id": 20
+    }
+  ]
+}
