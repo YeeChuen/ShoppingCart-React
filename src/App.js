@@ -1,13 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Inventory from './components/inventory/Inventory';
-import Cart from './components/cart/Cart';
+import ShoppingCart from './components/ShoppingCart';
 
 function App() {
   return (
     <div className="App">
-      <Inventory/>
-      <Cart/>
+      <ShoppingCart/>
     </div>
   );
 }
